@@ -1,0 +1,45 @@
+% *****************************************************
+%
+% EVALUATION - Examine critically the completed work
+% and the results achieved. Relative achievements
+% (or lack of them) to the original objectives. 
+% Depending on the type of project, this may involve 
+% significant user-evaluation, statistical or 
+% application completeness testing.
+%
+% *****************************************************
+\chapter{Evaluation}
+This chapter will discuss in detail what methodologies were used to evaluate the quality of the product and details on exactly how the product was evaluated and the materials given to the evaluators, before discussing the results of the evaluation.
+\section{Evaluation Methodologies}
+% talk about how I evaluated product using lit review - nb need to do this in lit review
+To evaluate the product, it was decided that for this project both a usability and functionality evaluation should be undertaken. As there were three specific entity types that had been accounted for (names of people, names of products and names of places), it was also decided that there should be three scenarios written to guide the participants to talk about one of the three entity types - these scenarios can be found in Appendix \ref{app:scenarios}. \\\\
+There were five participants in total and they were each given a scenario to follow. As this project was evaluating a long-term memory mechanism, the participants interacted with the chatterbot for two 15-20 minutes sessions. For the first session, the participants were told to stay within the bounds of the scenarios they had been given for the full session and for the second session they were told to stay within the scenario for the first 10 minutes, with the rest of time dedicated to the participant being able to freely interact with the chatterbot. Before the participants interacted with the chatterbot, they were given the questions that were going to be asked in the questionnaire after they finished evaluating the chatterbot. The questionnaire consisted of 9 questions with a range of questions relating to the functionality and usability evaluation criteria. The questionnaire questions can be found in Appendix \ref{app:questionnaire}.
+\subsection{Functionality Evaluation}
+% talk about features / questions asked about etc..
+The functionality evaluation was evaluating the functional requirements of the system listed in sub-section \ref{ssection:functional}. The main features evaluated as part of this evaluation were:
+\begin{itemize}
+	\item Login/Signup flow - make sure that messages are retrieved when logging in and only a greeting is displayed when signing up.
+	\item Sending messages - make sure that when the user sends a message, a response is displayed from the chatterbot.
+	\item Memory mechanism - make sure that the chatterbot can pick up topics of past conversations and refer to them in the current context. 
+\end{itemize}
+The requirements with priorities of 3 and 4 were not implemented and so were not part of this evaluation.
+\subsection{Usability Evaluation}
+% talk about questions asked etc.
+The usability evaluation was evaluating the non-functional requirements of the system listed in sub-section \ref{ssection:non-functional}. The main features evaluated as part of this evaluation were:
+\begin{itemize}
+	\item Ease of use - the chatterbot should be easy to use and require minimal instructions to be able to use.
+	\item  Security - personally identifiable data should be securely stored in a database and users should not have access to other users' data.
+	\item Reliability - the chatterbot should not crash unexpectedly and should always return messages to the user interface.
+\end{itemize}
+All non-functional requirements were implemented and so will all be part of the evaluation.
+\section{Findings}
+The full findings can be viewed in Appendix \ref{app:questionnaire} - this section will discuss the summary of the findings for both the functionality and usability evaluation.
+\subsection{Functionality Evaluation}
+Questions 3, 4, 5, 6 and 7 were related to the functionality evaluation. All participants responded that the chatterbot always responded to a question they asked, whilst just over half of the participants found the chatterbot to be welcoming. More participants could have found the chatterbot to be more welcoming if the greeting message wasn't generic and included their personal name. Unsurprisingly, most participants found the unique nuances of ELIZA to be engaging and entertaining, but it was disappointing to learn that only just over 50\% of participants found that the chatterbot was picking up topics of conversation that was talked about in the first session. Even more disappointing was that most participants found that the chatterbot was unable to hold themed conversation for a long period of time. \\\\
+These results, although disappointing demonstrate the complex nature of conversation and memory. Positives can be found, in the sense that the findings also show that \gls{ner} can indeed extract key pieces of information that people talk about and if more work is done in the area of memory management and efficient data structures, \gls{ner} can be a useful technique in a long-term memory mechanism.
+\subsection{Usability Evaluation}
+Questions 1, 2, 8 and 9 were related to the usability evaluation. All participants responded saying that the user interface was easy to navigate and intuitive so instructions were not needed to show how to use the application. Every participant also said that the application met the reliability criteria as they all responded saying that the application did not crash or break unexpectedly. For the concluding questions of the questionnaires evaluating the application as a whole, most people said that they were somewhat likely to interact with the ELIZA chatterbot again, given the chance.\\\\
+Question 9 was a free-text question that enabled the participants to give feedback that was not already given as part of the preceding questions. A common negative theme across the responses to this question was that the chatterbot was moving on to new topics too quickly and that it wasn't probing the participant enough for more information about a topic of conversation, ultimately annoying the user. On the other hand, a positive theme was the interesting nature of the pattern matching and substitution technique that the chatterbot employs, which gripped the user.\\\\
+This shows that overall the usability of the chatterbot was of a high quality and that many of the reasons why there was negative feedback was down to the functionality of the chatterbot, rather than the usability, which was to be expected given the naive approach that was taken to keep the authenticity of the ELIZA chatterbot.
+\section{Summary}
+This chapter firstly discussed what evaluation methodologies were used and the criteria for the functionality and usability evaluations. It also discussed what information was given to the participants prior to them interacting with the chatterbot. Finally the summary of the findings from the evaluation were discussed, which found that the chatterbot's memory mechanism was not the most accurate or of the highest quality, but positives can still be taken from the work undertaken.

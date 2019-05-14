@@ -1,0 +1,111 @@
+% ********************************************
+%
+% PREAMBLE - DEFINE ALL STYLES AND CLASSES 
+% AND PACKAGES REQUIRED THROUGHOUT DOCUMENT
+%
+% ********************************************
+\documentclass[12pt,a4paper,openany,oneside]{book}
+\linespread{1.25}
+\usepackage[hyphens,spaces,obeyspaces]{url}
+% PDF METADATA 
+\usepackage[pdftex, 
+pdfauthor={Pritam Sangani},
+pdftitle={ELIZA Plus - Long Term Memory}]{hyperref}
+\usepackage{setspace}
+\usepackage{lmodern}
+
+\pagestyle{plain}
+% MARGIN STYLES
+\usepackage{geometry}
+\geometry{a4paper,
+total={170mm,257mm},
+top=25mm,
+bottom=25mm,
+left=25mm, 
+right=25mm}
+
+% PACKAGES NEEDED
+\usepackage{graphicx} % for including images in document
+\graphicspath{ {./Images/} }
+
+%bibliography managing package
+\usepackage[citestyle=authoryear,style=authoryear, sorting=nyt]{biblatex}
+
+\DeclareBibliographyCategory{cited}
+\AtEveryCitekey{\addtocategory{cited}{\thefield{entrykey}}}
+\addbibresource{Chapters/BackMatter/References/references.bib}
+\nocite{*}
+\usepackage[nottoc, notlot, notlof]{tocbibind}
+
+
+%Other useful packages
+\usepackage{lscape} %to make sections of the document landscape
+\usepackage{lipsum}
+
+% chapter heading style for frontmatter
+\newcommand{\cchapter}[1]{\chapter[#1]{\centering \Large #1}}
+
+% command to stop from adding to contents
+\newcommand{\nocontentsline}[3]{}
+\newcommand{\tocless}[2]{\bgroup\let\addcontentsline=\nocontentsline#1{#2}\egroup}
+
+% package to manage acronyms
+\usepackage{longtable}
+\usepackage{datatool}
+\usepackage[acronym]{glossaries}
+\setglossarystyle{long}
+\renewcommand{\glsnamefont}[1]{\textbf{#1}}
+
+\usepackage{pdfpages}
+\usepackage{float}
+\usepackage{fancyvrb}
+
+
+\usepackage{fmtcount}
+
+\newcommand\countnumwords{%
+	\immediate\write18{texcount -1 -sum -inc \jobname.tex -out=\jobname.txt}
+	\newread\tmp
+	\openin\tmp=\jobname.txt
+	\read\tmp to \words
+	\gdef\wordcount{\numexpr \words\relax}
+	\closein\tmp	
+}
+
+
+\usepackage{appendix}
+
+\usepackage{color}
+\definecolor{deepblue}{rgb}{0,0,0.5}
+\definecolor{deepred}{rgb}{0.6,0,0}
+\definecolor{deepgreen}{rgb}{0,0.5,0}
+
+\DeclareFixedFont{\ttb}{T1}{txtt}{bx}{n}{12} % for bold
+\DeclareFixedFont{\ttm}{T1}{txtt}{m}{n}{12}  % for normal
+
+\usepackage{listings}
+
+\newcommand\pythonstyle{\lstset{
+		language=Python,
+		basicstyle=\ttm,
+		otherkeywords={self},             % Add keywords here
+		keywordstyle=\ttb\color{deepblue},
+		emph={MyClass,__init__},          % Custom highlighting
+		emphstyle=\ttb\color{deepred},    % Custom highlighting style
+		stringstyle=\color{deepgreen},
+		frame=tb,                         % Any extra options here
+		showstringspaces=false            % 
+}}
+
+\lstnewenvironment{python}[1][]
+{
+	\pythonstyle
+	\lstset{#1}
+}
+{}
+
+\usepackage{array}
+
+\newcommand{\findabbreviations}{
+	\immediate\write18{makeglossaries.exe \jobname}
+}

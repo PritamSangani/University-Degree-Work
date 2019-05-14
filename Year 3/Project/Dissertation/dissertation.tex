@@ -1,0 +1,45 @@
+% ********************************************
+%
+% A DISSERTATION REPORT FOR FINAL YEAR 
+% PROJECT @ MMU BY PRITAM SANGANI
+%
+% ********************************************
+
+\input{Preamble/preamble}
+\input{Preamble/abbreviations}
+\immediate\findabbreviations
+\makeglossaries
+\immediate\countnumwords
+\begin{document}
+\frontmatter
+	%TC:ignore
+	\include{Chapters/FrontMatter/Title/title}
+	\setcounter{page}{1}
+	\include{Chapters/FrontMatter/Declaration/declaration}
+	\include{Chapters/FrontMatter/Acknowledgements/acknowledgements}
+	\include{Chapters/FrontMatter/Abstract/abstract}
+	\linespread{0.5}
+	\tableofcontents
+	\listoffigures
+	\listoftables
+	\input{Chapters/FrontMatter/Abbreviations/abbreviations}
+	%TC:endignore
+\mainmatter
+	\include{Chapters/MainMatter/Introduction/introduction}
+	\include{Chapters/MainMatter/Literature-Review/literature-review}
+	\include{Chapters/MainMatter/Design/design}
+	\include{Chapters/MainMatter/Implementation/implementation}
+	\include{Chapters/MainMatter/Evaluation/evaluation}
+	\include{Chapters/MainMatter/Conclusion/conclusion}
+	%TC:ignore
+	\include{Chapters/BackMatter/References/references}
+	\include{Chapters/BackMatter/Bibliography/bibliography}
+	\begin{appendices}
+		\include{Chapters/BackMatter/Appendices/Feasibility-Study/feasibility-study}
+		\include{Chapters/BackMatter/Appendices/Showcase/showcase}
+		\include{Chapters/BackMatter/Appendices/Product-Link/product-link}
+		\include{Chapters/BackMatter/Appendices/Scenarios/scenarios}
+		\include{Chapters/BackMatter/Appendices/Questionnaire/questionnaire}
+	\end{appendices}
+	%TC:endignore 
+\end{document}

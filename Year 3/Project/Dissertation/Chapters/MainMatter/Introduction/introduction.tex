@@ -1,0 +1,57 @@
+\chapter{Introduction}
+This chapter introduces the project and gives a statement of the aims and objectives, as well as the research question and hypotheses, defined before the start of this project. It will also give a brief overview of what the reader should expect from the rest of this report.
+
+\section{Research Background}
+In 1950, Alan Turing published a paper called `Computing Machinery and Intelligence' \autocite{turing-paper1950}, in which he posed the question, ``Can machines think?". Alongside this question, he also proposed the Turing Test - a test of a computer's or a machine's ability to replicate or exhibit the intelligence of a human. Since then, computer scientists have been researching how to develop chatterbots that converse convincingly with humans. Research, in this field, intensified when in the mid-1960s, Joseph Weizenbaum, developed ELIZA \autocite{weizenbaum-eliza1966} - known to be the first chatterbot ever created. ELIZA used an early-form of \gls{nlp}, where it would match patterns in the text input and substitute it with phrases, to create the illusion of understanding. In recent years, chatterbot developers have been trying to win the Loebner Prize - a modern-day version of the Turing Test. This contest has been held since 1991 in which judges converse with chatterbots not knowing whether they are talking to a human or a chatterbot \autocite{loebner-prize2001}. Chatterbots have also become very popular commercially, as businesses look to make their customer services more efficient, innovative and, most importantly, more personal, due to the rising demand of customers looking for fast resolutions to their problems and the increase in time they are spending online \autocite{deloitte-chatbots2018}. This report by Deloitte, also found that one of the market forces driving chatterbot development is the ``technological advances in \gls{ai} and \gls{nlp}".\\\\
+\gls{nlp} is a branch of \gls{ai} concerned with the research of interactions between humans and computers through natural language. Natural Language has been defined in a white paper on \gls{nlp} as being ``the most natural means of communication between humans, and the mode of expression of choice for most of the documents they produce" \autocite{nlp-whitepaper1989}. Entity Recognition (also known as \gls{ner}) is a branch of NLP concerned with labelling ``sequences of words in a text which are the names of things, such as person and company names, or gene and protein names."  \autocite{stanford-nlp-group-ner}\\\\
+A big part of developing chatterbots is actually evaluating the quality of existing chatterbots and how convincing they are at mimicking the functions of the human brain. Two recent studies have tried to answer two questions that must be answered when evaluating the quality of a chatterbot. Firstly, the current uses of chatterbots in society must be examined. Brandtzaeg and Følstad have published their study of the uses of chatterbots on various platforms and across various categories of uses. The vast majority of participants in the study reported using chatterbots to increase their productivity, by quickly retrieving information or accessing assistance \autocite{why-people-use-chatbots2017}. Rather surprisingly, the study also found that 12\% of the participants reported using chatterbots for social or relational use. The study found that the human nature of chatterbots drove people to use them for this purpose - the responses stated that chatterbots were a way of ``avoiding loneliness" and ``improving their social and conversational skills". Another study tried to gather together all the attributes and features that can be used to assess the quality of chatbots. \autocite{evaluating-chatbots2017} The study found that two attributes that measure the effectiveness of the chatterbot are the ability to ``maintain themed discussion" and to deliver ``convincing, satisfying and natural interaction". The study also found that one of the attributes that measure the satisfaction of the chatterbot is the ability to ``detect meaning or intent".\\\\
+A big part of this project is to add a ``long-term memory" mechanism to the core of the ELIZA chatterbot. Long-term memory is the ability to refer back to earlier conversations and to bring the information back at relevant points in the current conversation. This would make the chatterbot more human-like and, as discussed, would improve the quality of the chatterbot. This project aims to achieve this by using \gls{nlp}, more specifically \gls{ner}, to store relevant and linked information into a database to retrieve at a later point in the conversation.
+
+\section{Aims}
+The aims that were defined before the start of this project are to:
+\begin{itemize}
+	\item Integrate Long-Term Memory mechanism to the ELIZA chatterbot core.
+	\item Evaluate how convincing the long-term memory mechanism is, by way of research methods determined by research done in literature review.
+\end{itemize}
+
+\section{Objectives}
+The objectives that were defined for this project from the above aims are:
+\begin{enumerate}
+	\item Complete a Literature Review by reading research papers and articles on the topic of \gls{nlp} and \gls{ner} from the Internet and textbooks.
+	\item Find source code for the ELIZA chatterbot in Python and start understanding how the code works.
+	\item Compare the different tools for \gls{ner} readily available for use in Python.
+	\item Design an overview of the software and a plan to implement.
+	\item Implement the software according to the plan, whilst incrementally testing where appropriate.
+	\item Carry out a final testing of the software.
+	\item Evaluate the quality of the software by carrying out a study with participants.
+	\item Write up the research findings in a report.
+\end{enumerate}
+
+\section{Research Question}
+The research question that has been proposed, as part of this research project, is:\\\\
+\textbf{Is it possible to implement convincing long-term memory into an existing chatterbot, such as Weizenbaum's ELIZA?} 
+
+\section{Hypotheses}
+The following hypotheses have been derived from the above research question:
+\begin{itemize}
+	\item \textbf{H\textsubscript{0} - it is not possible to add long-term memory to a chatterbot, at this stage, which is convincing enough to be comparable to human memory mechanism.}
+	\item \textbf{H\textsubscript{1} - it is possible to add convincing long-term memory at a significant statistical level, if the number of participants in the research is high enough.}
+\end{itemize}
+
+\section{Report Structure}
+The rest of this report is structured as follows:\\\\
+\textbf{Chapter 2 - Literature Review}\\
+- A review of current research in the areas of chatterbots, \gls{nlp} and the psychology of conversation.\\
+\textbf{Chapter 3 - Design}\\
+- A discussion of the considerations and requirements taken into account when selecting tools and services to use to implement the product.\\
+\textbf{Chapter 4 - Implementation and Testing}\\
+- A discussion of the steps and decisions made when implementing and testing the different parts of the product.\\
+\textbf{Chapter 5 - Evaluation}\\
+- A discussion on how well the product performed against the hypotheses set out in this chapter, using the findings from the usability and functionality evaluation tests as evidence.\\
+\textbf{Chapter 6 - Conclusion}\\
+- A final review of the project, including a personal assessment of the author's achievements and failures throughout the duration of the project. This chapter also includes recommendations of future work relating to the product.\\
+
+\section{Summary}
+This chapter introduced the reader to the background of the project and gave an overview of what this project aims to achieve.\\\\
+The next chapter will aim to give the reader a detailed understanding of the current research in the research areas related to this project.
+
