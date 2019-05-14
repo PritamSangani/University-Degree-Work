@@ -1,0 +1,16 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\bin\Debug\GlobalTradingDataApp.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\bin\Debug\GlobalTradingDataApp.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\bin\Debug\GlobalTradingDataApp.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Debug\GlobalTradingDataApp.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Debug\GlobalTradingDataApp.Form1.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Debug\GlobalTradingDataApp.Properties.Resources.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Debug\GlobalTradingDataApp.csproj.GenerateResource.Cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Debug\GlobalTradingDataApp.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Debug\GlobalTradingDataApp.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Debug\GlobalTradingDataApp.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Debug\GlobalTradingDataApp.AddTradingPartnerForm.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\bin\Debug\nunit.framework.dll
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\bin\Debug\nunit.framework.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\bin\Debug\nunit.framework.xml
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Debug\GlobalTradingDataApp.csproj.CopyComplete
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Debug\GlobalTradingDataApp.NewCountryForm.resources

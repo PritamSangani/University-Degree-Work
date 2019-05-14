@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalTradingDataApp", "GlobalTradingDataApp\GlobalTradingDataApp.csproj", "{A5A24FAE-88FF-4F2E-B1E6-3CE2F521F03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A24FAE-88FF-4F2E-B1E6-3CE2F521F03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A24FAE-88FF-4F2E-B1E6-3CE2F521F03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A24FAE-88FF-4F2E-B1E6-3CE2F521F03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A24FAE-88FF-4F2E-B1E6-3CE2F521F03E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F30062B-E6C4-427F-9731-17AC0A0DB040}
+	EndGlobalSection
+EndGlobal

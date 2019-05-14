@@ -1,0 +1,9 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\bin\Release\GlobalTradingDataApp.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\bin\Release\GlobalTradingDataApp.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\bin\Release\GlobalTradingDataApp.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Release\GlobalTradingDataApp.Form1.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Release\GlobalTradingDataApp.Properties.Resources.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Release\GlobalTradingDataApp.csproj.GenerateResource.Cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Release\GlobalTradingDataApp.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Release\GlobalTradingDataApp.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\SanganiPritam16039231\GlobalTradingDataApp\GlobalTradingDataApp\obj\Release\GlobalTradingDataApp.pdb
