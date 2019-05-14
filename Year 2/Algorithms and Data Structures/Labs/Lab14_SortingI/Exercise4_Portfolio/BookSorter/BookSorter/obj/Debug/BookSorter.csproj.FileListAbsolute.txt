@@ -1,0 +1,7 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise4_Portfolio\BookSorter\BookSorter\bin\Debug\BookSorter.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise4_Portfolio\BookSorter\BookSorter\bin\Debug\BookSorter.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise4_Portfolio\BookSorter\BookSorter\bin\Debug\BookSorter.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise4_Portfolio\BookSorter\BookSorter\obj\Debug\BookSorter.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise4_Portfolio\BookSorter\BookSorter\obj\Debug\BookSorter.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise4_Portfolio\BookSorter\BookSorter\obj\Debug\BookSorter.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise4_Portfolio\BookSorter\BookSorter\obj\Debug\BookSorter.pdb

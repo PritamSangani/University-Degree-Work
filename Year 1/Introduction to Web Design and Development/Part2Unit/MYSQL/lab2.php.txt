@@ -1,0 +1,17 @@
+<?php 
+//creates a unique id  username(renum)  and password using rand and md5
+
+
+//creates a longer unique id with the 'about' prefix
+$a=0;
+echo " id &nbsp &nbsp regnum &nbsp &nbsp password <br>";
+while($a<13){
+$a=$a+1;
+srand($a);
+$b = rand();
+$c = strval($b);
+$d = md5($c);
+echo "'".$a."',", "&nbsp &nbsp &nbsp","'".$b."',","&nbsp &nbsp &nbsp", "'".$d."'", "<br>";
+echo "<br>";
+}
+?>

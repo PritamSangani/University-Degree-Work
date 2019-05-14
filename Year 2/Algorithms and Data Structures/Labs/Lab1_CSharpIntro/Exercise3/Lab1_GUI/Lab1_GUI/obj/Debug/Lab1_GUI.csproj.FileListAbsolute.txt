@@ -1,0 +1,10 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\GUI\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\GUI\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\GUI\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\GUI\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\GUI\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.Form1.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\GUI\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.Properties.Resources.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\GUI\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.csproj.GenerateResource.Cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\GUI\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\GUI\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\GUI\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.pdb

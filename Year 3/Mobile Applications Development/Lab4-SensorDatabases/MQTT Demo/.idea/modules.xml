@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MQTT Demo.iml" filepath="$PROJECT_DIR$/MQTT Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PhidgetLabs1/PhidgetLabs.iml" filepath="$PROJECT_DIR$/../PhidgetLabs1/PhidgetLabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PhidgetServer/PhidgetServer.iml" filepath="$PROJECT_DIR$/../PhidgetServer/PhidgetServer.iml" />
+    </modules>
+  </component>
+</project>

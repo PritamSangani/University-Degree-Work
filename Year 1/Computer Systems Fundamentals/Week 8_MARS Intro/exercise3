@@ -1,0 +1,7 @@
+addi $t1 $zero 10
+addi $t2 $zero 20
+addi $t3 $zero 30
+
+add $s1 $t1 $t2
+add $s2 $t2 $t3
+add $s3 $t3 $s1

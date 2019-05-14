@@ -1,0 +1,7 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab16-17_GraphsI\GraphsI\GraphsI\bin\Debug\GraphsI.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab16-17_GraphsI\GraphsI\GraphsI\bin\Debug\GraphsI.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab16-17_GraphsI\GraphsI\GraphsI\bin\Debug\GraphsI.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab16-17_GraphsI\GraphsI\GraphsI\obj\Debug\GraphsI.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab16-17_GraphsI\GraphsI\GraphsI\obj\Debug\GraphsI.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab16-17_GraphsI\GraphsI\GraphsI\obj\Debug\GraphsI.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab16-17_GraphsI\GraphsI\GraphsI\obj\Debug\GraphsI.pdb

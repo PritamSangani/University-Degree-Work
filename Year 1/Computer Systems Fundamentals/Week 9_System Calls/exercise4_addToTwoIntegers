@@ -1,0 +1,21 @@
+.data
+
+
+
+.text
+	addi $s0 $zero 202
+	 
+	addi $v0 $zero 5
+	syscall
+	addu $a0 $s0 $v0
+	
+	addi $v0 $zero 5
+	syscall
+	addu $t0 $s0 $v0
+	
+	addi $v0 $zero 1
+	syscall
+	addu $a0 $zero $t0
+	syscall
+	
+	

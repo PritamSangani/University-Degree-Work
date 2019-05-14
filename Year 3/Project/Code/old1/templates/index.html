@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>ELIZA Plus</title>
+    <script src="https://www.gstatic.com/firebasejs/5.5/firebase.js"></script>
+    <script src="js/chat-app/config.js"></script>
+    <script src="https://cdn.firebase.com/libs/firebaseui/3.5.1/firebaseui.js"></script>
+    <link type="text/css" rel="stylesheet" 
+        href="https://cdn.firebase.com/libs/firebaseui/3.5.1/firebaseui.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" 
+        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" 
+        crossorigin="anonymous">
+
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/send.css" />
+    <link rel="stylesheet" href="assets/css/chat.css" />
+    <link rel="stylesheet" href="assets/css/notifications.css" />
+</head>
+
+<body id="body">
+    <nav class="navbar fixed-top navbar-light bg-light">
+        <img id="logo" src="assets/images/eliza-logo.png">
+        <button id="signout" style="display:none; float: right" 
+            type="button" class="btn btn-secondary">Sign Out</button>
+    </nav>
+    <div id="chat-app" style="display:none">
+        <div class="container">            
+            <div class="row chat-row">
+                <div class="col-lg-8 offset-lg-2">
+                    <span id="chat-area"></span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Area to send a message and ownership info -->
+        <div class="container send-wrapper">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 send-inner-wrapper">
+                    <p class="send-message-help-text">Talk to Eliza by typing into the textbox below:</p>
+                    <input type="text" class="send-textbox" />
+                    <p class="send-message-help-below-text text-right">Send your message by pressing "Enter"</p>
+                    <p class="bottom-label text-center">Adapted by Pritam Sangani using the work of <a href="https://github.com/kweaver00" target="_blank">Keith
+                            Weaver</a>.
+                        Modify the original work by forking the <a href="https://github.com/kweaver00/eliza" target="_blank">repo</a>.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- notifications.js appends notification html elements to this -->
+        <span id="notification-area">
+        </span>
+    </div>
+    <div id="firebaseui-container"></div>
+    <script src="js/chat-app/index.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" 
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" 
+        integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" 
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" 
+        integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" 
+        crossorigin="anonymous"></script>
+	<!-- Main Eliza Script -->
+	<script src="js/chat-app/eliza.js"></script>
+	<!-- Script that manages user actions -->
+	<script src="js/chat-app/actions.js"></script>
+	<!-- Script that has some demos and can be run based on user actions -->
+	<script src="js/chat-app/demo.js"></script>
+	<!-- Scripts that generates html to notify user -->
+	<script src="js/chat-app/notifications.js"></script>
+</body>
+
+</html>

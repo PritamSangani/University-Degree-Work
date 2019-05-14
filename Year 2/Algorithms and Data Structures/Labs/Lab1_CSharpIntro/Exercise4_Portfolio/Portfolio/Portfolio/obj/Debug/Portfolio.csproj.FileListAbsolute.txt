@@ -1,0 +1,9 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\Portfolio_GUI\Portfolio\Portfolio\bin\Debug\Portfolio.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\Portfolio_GUI\Portfolio\Portfolio\bin\Debug\Portfolio.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\Portfolio_GUI\Portfolio\Portfolio\bin\Debug\Portfolio.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\Portfolio_GUI\Portfolio\Portfolio\obj\Debug\Portfolio.Form1.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\Portfolio_GUI\Portfolio\Portfolio\obj\Debug\Portfolio.Properties.Resources.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\Portfolio_GUI\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.GenerateResource.Cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\Portfolio_GUI\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\Portfolio_GUI\Portfolio\Portfolio\obj\Debug\Portfolio.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\Portfolio_GUI\Portfolio\Portfolio\obj\Debug\Portfolio.pdb

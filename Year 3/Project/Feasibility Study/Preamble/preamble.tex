@@ -1,0 +1,70 @@
+% ********************************************
+%
+% PREAMBLE - DEFINE ALL STYLES AND CLASSES 
+% AND PACKAGES REQUIRED THROUGHOUT DOCUMENT
+%
+% ********************************************
+\documentclass[11pt,a4paper]{article}
+\usepackage[hyphens,spaces,obeyspaces]{url}
+% PDF METADATA 
+\usepackage[pdftex, 
+pdfauthor={Pritam Sangani},
+pdftitle={Feasibility Study}]{hyperref}
+
+% WATERMARK STYLES
+\usepackage{draftwatermark}
+\SetWatermarkScale{2}
+
+%%% Macro to disable watermark
+\makeatletter
+\def\watermarkoff{%
+	\@sc@wm@stampfalse
+}
+\makeatother
+
+%%% Macro to enable watermark
+\makeatletter
+\def\watermarkon{%
+	\@sc@wm@stamptrue
+}
+\makeatother
+
+
+% MARGIN STYLES
+\usepackage{geometry}
+\geometry{a4paper,
+total={170mm,257mm},
+top=25mm,
+bottom=25mm}
+
+% PACKAGES NEEDED
+\usepackage{graphicx} % for including images in document
+\graphicspath{ {./Images/} }
+
+
+%header
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{Feasibility Study: Eliza Plus - Long-Term Memory}
+\rhead{October 2018}
+
+%bib
+\usepackage{natbib}
+\bibliographystyle{agsm}
+
+%gannt chart package
+\usepackage{pgfgantt}
+
+\newcounter{myWeekNum}
+\stepcounter{myWeekNum}
+%
+\newcommand{\myWeek}{\themyWeekNum
+	\stepcounter{myWeekNum}
+	\ifnum\themyWeekNum=53
+	\setcounter{myWeekNum}{1}
+	\else\fi
+}
+
+%Other useful packages
+\usepackage{lscape} %to make sections of the document landscape
+

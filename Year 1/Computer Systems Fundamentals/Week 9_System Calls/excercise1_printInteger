@@ -1,0 +1,9 @@
+# Put 1 in $v0 using service 1
+
+addi $v0 $zero 1
+
+# Put 64 in $a0
+
+addi $a0 $zero 7542
+
+syscall

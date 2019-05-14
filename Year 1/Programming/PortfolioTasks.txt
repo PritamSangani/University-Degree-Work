@@ -1,0 +1,10 @@
+Portfolios To Date
+
+Week 1: Stick Person				Comments: Y
+Week 3: Monsters				Comments: Y
+Week 4: Pong Game				Comments: Y
+Week 6: Motorbikes				Comments: Y(maybe more)
+Week 9: Defender(1st Part)			Comments: N
+Week 11: Calendar				Comments: N	
+Week 14: Decorator(Console Application)		Comments: N
+Week 16: Draughts Game				Comments: N

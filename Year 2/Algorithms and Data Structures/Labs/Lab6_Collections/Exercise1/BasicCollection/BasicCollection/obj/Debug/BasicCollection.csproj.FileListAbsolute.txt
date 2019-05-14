@@ -1,0 +1,6 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise1\BasicCollection\BasicCollection\bin\Debug\BasicCollection.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise1\BasicCollection\BasicCollection\bin\Debug\BasicCollection.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise1\BasicCollection\BasicCollection\bin\Debug\BasicCollection.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise1\BasicCollection\BasicCollection\obj\Debug\BasicCollection.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise1\BasicCollection\BasicCollection\obj\Debug\BasicCollection.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise1\BasicCollection\BasicCollection\obj\Debug\BasicCollection.pdb

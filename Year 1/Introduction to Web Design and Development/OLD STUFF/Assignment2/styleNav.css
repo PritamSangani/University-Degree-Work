@@ -1,0 +1,40 @@
+nav		{
+	padding:0px;
+	font-size:13px;
+	font-weight:bold;
+	width:100%;
+	background-color:#FFFFFF;
+	height:auto;
+	border-bottom:2px solid #000000;
+	
+}
+
+
+ul 		{
+    list-style-type: none;
+	padding: 0px;
+    overflow: hidden;
+}
+
+li a{
+	text-align:center;
+	display:block;
+	float:left;
+	padding:1% 9%;
+	text-decoration: none;
+	color:#4c5159;
+	width:4%;
+	min-width:40px;
+	height:auto;
+	font-weight:normal;
+	transition: width 3s;
+	border-bottom:2px solid #FFFFFF;
+	
+}
+
+li a:hover{
+	font-weight:bold;
+	opacity:0.8;
+	background-color:#f2f5f9;
+	width:10%;
+}

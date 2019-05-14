@@ -1,0 +1,7 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise1\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise1\Library\Library\bin\Debug\Library.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise1\Library\Library\bin\Debug\Library.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise1\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise1\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise1\Library\Library\obj\Debug\Library.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise1\Library\Library\obj\Debug\Library.pdb

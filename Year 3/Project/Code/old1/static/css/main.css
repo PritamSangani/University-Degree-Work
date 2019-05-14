@@ -1,0 +1,28 @@
+body {
+	padding-top: 5%;
+}
+
+.chat-row {
+	padding-top: 50px;
+	padding-bottom: 120px;
+}
+h1, h2, p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#logo {
+	display: block;
+	margin: 2% auto;
+	width: 15%;
+}
+
+#chat-app {
+	margin: 0 auto;
+	margin-top: 5%;
+	overflow: auto;
+}
+
+#firebaseui-container {
+	margin-top: 15%;
+}

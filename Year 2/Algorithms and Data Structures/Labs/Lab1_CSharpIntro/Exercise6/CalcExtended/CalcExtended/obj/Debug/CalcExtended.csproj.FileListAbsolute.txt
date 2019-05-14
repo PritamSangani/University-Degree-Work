@@ -1,0 +1,10 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\CalcExtended_GUI\CalcExtended\CalcExtended\bin\Debug\CalcExtended.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\CalcExtended_GUI\CalcExtended\CalcExtended\bin\Debug\CalcExtended.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\CalcExtended_GUI\CalcExtended\CalcExtended\bin\Debug\CalcExtended.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\CalcExtended_GUI\CalcExtended\CalcExtended\obj\Debug\CalcExtended.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\CalcExtended_GUI\CalcExtended\CalcExtended\obj\Debug\CalcExtended.Form1.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\CalcExtended_GUI\CalcExtended\CalcExtended\obj\Debug\CalcExtended.Properties.Resources.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\CalcExtended_GUI\CalcExtended\CalcExtended\obj\Debug\CalcExtended.csproj.GenerateResource.Cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\CalcExtended_GUI\CalcExtended\CalcExtended\obj\Debug\CalcExtended.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\CalcExtended_GUI\CalcExtended\CalcExtended\obj\Debug\CalcExtended.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\CalcExtended_GUI\CalcExtended\CalcExtended\obj\Debug\CalcExtended.pdb

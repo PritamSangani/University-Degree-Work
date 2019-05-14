@@ -1,0 +1,7 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise2\GenericCollection\GenericCollection\bin\Debug\GenericCollection.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise2\GenericCollection\GenericCollection\bin\Debug\GenericCollection.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise2\GenericCollection\GenericCollection\bin\Debug\GenericCollection.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise2\GenericCollection\GenericCollection\obj\Debug\GenericCollection.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise2\GenericCollection\GenericCollection\obj\Debug\GenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise2\GenericCollection\GenericCollection\obj\Debug\GenericCollection.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise2\GenericCollection\GenericCollection\obj\Debug\GenericCollection.pdb

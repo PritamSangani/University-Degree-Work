@@ -1,0 +1,7 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab9-10_BinarySearchTrees\Exercise1\BinSearchTree\BinSearchTree\bin\Debug\BinSearchTree.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab9-10_BinarySearchTrees\Exercise1\BinSearchTree\BinSearchTree\bin\Debug\BinSearchTree.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab9-10_BinarySearchTrees\Exercise1\BinSearchTree\BinSearchTree\bin\Debug\BinSearchTree.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab9-10_BinarySearchTrees\Exercise1\BinSearchTree\BinSearchTree\obj\Debug\BinSearchTree.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab9-10_BinarySearchTrees\Exercise1\BinSearchTree\BinSearchTree\obj\Debug\BinSearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab9-10_BinarySearchTrees\Exercise1\BinSearchTree\BinSearchTree\obj\Debug\BinSearchTree.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab9-10_BinarySearchTrees\Exercise1\BinSearchTree\BinSearchTree\obj\Debug\BinSearchTree.pdb

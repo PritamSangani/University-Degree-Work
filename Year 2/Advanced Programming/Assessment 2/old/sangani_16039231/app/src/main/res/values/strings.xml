@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Student Details</string>
+    <!--Student Details Activity-->
+    <string name="nameTextView">TextView</string>
+    <string name="personalDetailsText">Personal Details</string>
+    <string name="genderText">Gender:</string>
+    <string name="genderTextView">TextView</string>
+    <string name="dateOfBirthText">Date of Birth:</string>
+    <string name="dateOfBirthTextView">TextView</string>
+    <string name="addressText">Address:</string>
+    <string name="addressTextView">TextView</string>
+    <string name="postcodeText">Postcode:</string>
+    <string name="postcodeTextView">TextView</string>
+    <string name="universityText">University Details</string>
+    <string name="studentNumberText">Student Number:</string>
+    <string name="studentNumberTextView">TextView</string>
+    <string name="courseTitleText">Course Title:</string>
+    <string name="startDateText">Start Date:</string>
+    <string name="courseTitleTextView">TextView</string>
+    <string name="startDateTextView">TextView</string>
+    <string name="bursaryText">Bursary:</string>
+    <string name="bursaryTextView">TextView</string>
+    <string name="emailText">Email:</string>
+    <string name="emailTextView">TextView</string>
+
+    <!--Add Student Activity-->
+    <string name="addStudentText">Add New Student</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">YOUR_APP_ID</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nameEditText">Name:</string>
+    <string name="genderEditText">Gender:</string>
+    <string name="dateOfBirthEditText">DoB:</string>
+    <string name="addressEditText">Address:</string>
+    <string name="postcodeEditText">Postcode:</string>
+    <string name="studentNumberEditText">Student Number:</string>
+    <string name="courseTitleEditText">Course Title:</string>
+    <string name="startDateEditText">Start Date:</string>
+    <string name="bursaryEditText">Bursary:</string>
+    <string name="emailEditText">Email:</string>
+    <string name="addStudentButtonText">Add Student</string>
+    <string name="femaleText">Female</string>
+    <string name="maleText">Male</string>
+
+</resources>

@@ -1,0 +1,7 @@
+class Program {
+    int x, y;
+
+    void printInt(int x, int y) {
+        int x, y;
+    }
+}

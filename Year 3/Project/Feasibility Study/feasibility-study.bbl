@@ -1,0 +1,48 @@
+\begin{thebibliography}{xx}
+
+\harvarditem[Bakhshi et~al.]{Bakhshi, van~den Berg, Broersen, de~Vries,
+  El~Bouazzaoui \harvardand\ Michels}{2018}{deloitte-chatbots2018}
+Bakhshi, N., van~den Berg, H., Broersen, S., de~Vries, D., El~Bouazzaoui, H.
+  \harvardand\ Michels, B.  \harvardyearleft 2018\harvardyearright , Chatbots
+  point of view, Technical report, Deloitte The Netherlands.
+
+\harvarditem{Brandtzaeg \harvardand\
+  F{\o}lstad}{2017}{why-people-use-chatbots2017}
+Brandtzaeg, P.~B. \harvardand\ F{\o}lstad, A.  \harvardyearleft
+  2017\harvardyearright , Why people use chatbots, {\em in} `International
+  Conference on Internet Science', Springer, pp.~377--392.
+
+\harvarditem{Radziwill \harvardand\ Benton}{2017}{evaluating-chatbots2017}
+Radziwill, N.~M. \harvardand\ Benton, M.~C.  \harvardyearleft
+  2017\harvardyearright , `Evaluating quality of chatbots and intelligent
+  conversational agents', {\em arXiv preprint arXiv:1704.04579} .
+
+\harvarditem{{\em Stanford Named Entity Recognizer
+  (NER)}}{n.d.}{stanford-nlp-group}
+{\em Stanford Named Entity Recognizer (NER)}  \harvardyearleft
+  n.d.\harvardyearright , Available at
+  \url{https://nlp.stanford.edu/software/CRF-NER.shtml} (Accessed: 17/10/2018).
+
+\harvarditem{Turing}{1950}{turing-paper1950}
+Turing, A.~M.  \harvardyearleft 1950\harvardyearright , `I.—computing
+  machinery and intelligence', {\em Mind} {\bf LIX}(236),~433--460.
+
+\harvarditem[Weischedel et~al.]{Weischedel, Carbonell, Grosz, Lehnert, Marcus,
+  Perrault \harvardand\ Wilensky}{1989}{nlp-whitepaper1989}
+Weischedel, R., Carbonell, J., Grosz, B., Lehnert, W., Marcus, M., Perrault, R.
+  \harvardand\ Wilensky, R.  \harvardyearleft 1989\harvardyearright , White
+  paper on natural language processing, {\em in} `Proceedings of the Workshop
+  on Speech and Natural Language', HLT '89, Association for Computational
+  Linguistics, Stroudsburg, PA, USA, pp.~481--493.
+
+\harvarditem{Weizenbaum}{1966}{weizenbaum-eliza1966}
+Weizenbaum, J.  \harvardyearleft 1966\harvardyearright , `Eliza - a computer
+  program for the study of natural language communication between man and
+  machine', {\em Commun. ACM} {\bf 9}(1),~36--45.
+
+\harvarditem{Zdenek}{2001}{loebner-prize2001}
+Zdenek, S.  \harvardyearleft 2001\harvardyearright , `Passing loebner’s
+  turing test: A case of conflicting discourse functions', {\em Minds and
+  Machines} {\bf 11}(1),~53–76.
+
+\end{thebibliography}

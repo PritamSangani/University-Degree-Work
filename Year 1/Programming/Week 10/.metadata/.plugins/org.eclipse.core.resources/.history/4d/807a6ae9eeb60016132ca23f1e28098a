@@ -1,0 +1,15 @@
+package week10;
+import java.util.Scanner;
+public class UserInput {
+
+	public static void main(String[] args) {
+		String name;
+		int age;
+		float height;
+		Scanner in = new Scanner(System.in);
+		System.out.println("Enter your name: ");
+		name = in.nextLine();
+
+	}
+
+}

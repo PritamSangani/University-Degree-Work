@@ -1,0 +1,7 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise3\BubbleSelectionSort\BubbleSelectionSort\bin\Debug\BubbleSelectionSort.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise3\BubbleSelectionSort\BubbleSelectionSort\bin\Debug\BubbleSelectionSort.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise3\BubbleSelectionSort\BubbleSelectionSort\bin\Debug\BubbleSelectionSort.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise3\BubbleSelectionSort\BubbleSelectionSort\obj\Debug\BubbleSelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise3\BubbleSelectionSort\BubbleSelectionSort\obj\Debug\BubbleSelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise3\BubbleSelectionSort\BubbleSelectionSort\obj\Debug\BubbleSelectionSort.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab14_SortingI\Exercise3\BubbleSelectionSort\BubbleSelectionSort\obj\Debug\BubbleSelectionSort.pdb

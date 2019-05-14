@@ -1,0 +1,120 @@
+\section*{Comparison of Programming Languages}
+% Paradigm, Language Features, Support for Data Types etc.
+\subsection*{Pharo}
+\subsubsection*{Introduction}
+<<<<<<< HEAD
+Pharo is an open-source programming language and environment, influenced by the principles of the Smalltalk programming language. Pharo describes its environment, which is used to interact with the language as an `Integrated Development Environment (IDE) and OS rolled into one'. 
+=======
+Pharo is an open-source programming language and environment, influenced by the principles of the Smalltalk programming language. Pharo describes its environment, which is used to interact with the language as an 'Integrated Development Environment (IDE) and OS rolled into one'. 
+>>>>>>> 51726d3bf4dd7c57df33bb42024fb33734b74266
+\subsubsection*{Paradigm}
+Pharo is a pure object-oriented programming language, which means everything in Pharo is an object. It also takes principles from the reflective programming paradigm.
+\subsubsection*{Language Features and Support for Data Types}
+Pharo is a powerful language, yet its full set of built-in syntax can 'fit on one postcard'. Pharo has no constructor declarations for classes, no primitive types, such as \texttt{int} and \texttt{String} in Java, and is dynamically typed, so data types are not declared. Pharo uses \texttt{messages} to allow communication between Objects - this model is used throughout the language. Inheritance exists in Pharo, but only single inheritance is supported.
+\subsection*{Ruby}
+\subsubsection*{Introduction}
+Ruby is an open-source programming language, influenced by the principles of the Perl, Smalltalk, Eiffel, Ada and Lisp programming languages. Ruby focuses on being simplistic and increasing developer productivity.
+\subsubsection*{Paradigm}
+Ruby is a multi-paradigm language, that takes principles from the object-oriented, imperative, functional and reflective programming paradigms. Like Pharo, everything in Ruby are objects and, as such, is a pure object-oriented programming language.
+\subsubsection*{Language Features and Support for Data Types}
+The founder of Ruby, Yukihiro Matsumoto, aimed for Ruby to have syntax that was natural to read. One of the ways Ruby makes its syntax natural to read is in its flexibility, which allows developers to add methods to its built-in classes with more natural names. For example, addition in Ruby is performed with the \texttt{+} operator. Ruby's flexibility allows for developers to add a method to its built-in \texttt{Numeric} class, with a more natural name, \texttt{plus}.
+\begin{lstlisting}[language=Ruby]
+class Numeric
+   def plus(x)
+      self.+(x)
+   end
+end
+# results in 11 being assigned to y
+y = 5.plus.6
+\end{lstlisting}
+Another aspect of Ruby that offers flexibility is its \texttt{blocks}. \texttt{Blocks} in Ruby are \texttt{closures}, which developers can attach to any method to describe how the method should execute. Ruby \texttt{closures} are a functional paradigm aspect inspired from Lisp.\\\\* 
+Ruby only supports single inheritance, however it supports modules, which any class can mixin, using the keyword \texttt{include}, to give access to all the methods in the module.\\\\*
+Ruby is dynamically typed, so variable types are not declared. However, Ruby syntactically differentiates variables with different levels of scope.
+\begin{lstlisting}[language=Ruby]
+# local variable
+name
+# instance variable - removes the need to use `self.`
+@name
+# global variable
+$name
+\end{lstlisting}
+\subsection*{JavaScript}
+\subsubsection*{Introduction}
+<<<<<<< HEAD
+JavaScript (shortened to JS) is a lightweight, high-level language that is best known as being the scripting language for the Web, but is also used in some non-browser environments, such as Node.js and Adobe Acrobat. The language conforms to the ECMAScript specification, which is updated annually.
+\subsubsection*{Paradigm}
+JavaScript is a multi-paradigm language that supports object-oriented, imperative and declarative programming principles. The main declarative programming style that JavaScript supports is functional programming.
+\subsubsection*{Language Features and Support for Data Types}
+JavaScript's syntax is similar to Java and C++. However, unlike Java and C++, JavaScript is dynamically typed and so variables can hold data of any type at any point in time.\\\\*
+JavaScript also supports prototype-based programming principles, which means that objects' definitions can be extended at run-time, whereas in languages using class-based principles, such as Java, objects' definitions can only be extended at compile-time, as a new class will have to be created.\\\\*
+JavaScript also supports first-class functions. This means that functions can be passed as arguments to other functions, returned as values from other functions, assigned to variables and stored as fields in data structures.
+\subsection*{Clojure}
+\subsubsection*{Introduction}
+Clojure Docs describe Clojure as being a ``\textit{\textbf{robust}, \textbf{practical}, and \textbf{fast} programming language with a set of useful features that together form a \textbf{simple}, \textbf{coherent}, and \textbf{powerful} tool.}" The language is a dialect of the Lisp programming language and is a general-purpose programming language, so can be used in a wide variety of domains.
+\subsubsection*{Paradigm}
+Clojure is a purely functional programming language, and emphasises the use of recursive iteration over the use of loops with side-effects.
+\subsubsection*{Language Features and Support for Data Types}
+Clojure provides developers with inbuilt features to avoid the need of creating mutable states. One of the main tools is the collection of immutable data structures that Clojure provides. As these collections are immutable, adding or removing to/from it will create a new collection with the change, whilst retaining the old version.\\\\*
+Clojure is hosted on the Java Virtual Machine (JVM) and so all Java libraries are available to be called within Clojure code. Clojure utilises the Java concurrent thread system and as the core data structures are immutable they can be easily shared between threads, without having to worry about deadlocks. Clojure also provides mechanisms to allow state changes providing developers with tools to avoid conflicts when manually using locks. \\\\*
+Clojure is a dynamically typed and so data types do not need to be declared. However, type hints can be assigned to fields, using \texttt{deftype}, and if the type hint is of primitive type, it will be used as a field constraint, otherwise the type hint will be used to optimise methods.
+\subsection*{Haskell}
+\subsubsection*{Introduction}
+Haskell is a high-level, open-source language and is described by Haskell Docs as allowing ``\textit{rapid development of \textbf{robust}, \textbf{concise}, \textbf{concise} software.}"
+\subsubsection*{Paradigm}
+Haskell is a purely functional language and even operations that have side effects, such as I/O operations have to be written as pure code. Variables cannot be mutated and functions have to be written as expressions, not statements like in imperative languages.
+\subsubsection*{Language Features and Support for Data Types}
+Haskell is a statically-typed language so types are checked at compile-time. However, type declarations are optional as types can be inferred by the compiler.\\\\*
+Haskell can also call function from other languages, as well as, have Haskell function be called using Haskell's \texttt{Foreign Function Interface}. This can be done by rewriting the foreign function header in the Haskell equivalent. For example,
+\begin{lstlisting}[language=Haskell]
+double exp(double);
+-- exponential function from the C library can be rewritten as...
+foreign import ccall "exp" c_exp :: Double -> Double
+
+triple :: Int -> Int
+triple x = 3*x
+-- This function can be exported to be used in other languages by...
+foreign export ccall triple :: Int -> Int
+\end{lstlisting}
+Haskell also has a large and wide-ranging library of open-source contributed packages that can be used to make development easier and quicker.\\\\*
+Haskell is also very popular for concurrent programming due to side-effects not being allowed. GHC, Haskell's compiler also includes a high-performance garbage collector, which can be used in parallel threads and cores, and a lightweight concurrency library which contains a collection of useful tools for concurrent programming.
+% readability, writability, reliability, popularity etc.
+\subsection*{Overall Comparison}
+\subsubsection*{Readability}
+Pharo is a very readable language due to its short collection of syntax, which means code will be more consistent and therefore easier to interpret what the code is doing.\\\\*
+Ruby is a very readable language due to its focus on providing syntax that is natural to read.\\\\*
+JavaScript is considered to be a very readable language due to the fact that its syntax is very similar to that of the popular Java and C++. There are a number of ways operations can be implemented, which makes it more expressive. However, this allows code to be written in more obscure ways which could affect its readability.\\\\*
+With Clojure being functional, the code is easily readable as it is easy to step through the expressions in the function to see what is being evaluated. Also as all functions are separated with an outer pair of brackets, it is easy to see the structure of the code.\\\\*
+Like Clojure, Haskell is also written purely using functions, which makes it easy to see what code is being evaluated first.
+\subsubsection*{Writability}
+Pharo can be quite tricky to write for beginners due to its messages system, but once this is understood, Pharo can be considered to be fairly writable due to its small amount of syntax. However, due to it being very orthogonal errors can be quite hard to find and fix.\\\\*
+Ruby is a very writable language due to the flexibility that Ruby offers, which allows the extension of implementations to suit individual needs.\\\\*
+JavaScript is considered to be a writable language due to its support for abstraction and prototype-base programming principles.\\\\*
+With Clojure being functional, the developer will be forced to think mathematically and logically and so the code that is written tends to be very well structured and well written.\\\\*
+Haskell supports function composition and application, which makes the code more writable and readable as less brackets are used.
+\subsubsection*{Reliability}
+Pharo is not very reliable as it is quite hard to do error checking and it is common to get runtime errors when first running code.\\\\*
+Ruby includes tools for error handling and garbage collection so programs can run more reliably and efficiently.\\\\*
+JavaScript supports error handling which can handle invalid types or type conflicts.\\\\*
+Clojure is reliable as its built in data structures are immutable so side effects are not an issue when using these data structures. However, type conflicts can be an issue as it is dynamically typed.\\\\*
+Haskell is very reliable as it is statically typed so type conflicts are caught at compile time. Also side effects are not allowed so unexpected behaviour is less of an issue.
+\subsubsection*{Popularity}
+Pharo is not a very popular language and it doesn't feature in the Top 50 of the TIOBE index which measures and records the most popular programming languages annually. Pharo can only be used in Pharo's own IDE, but documentation is fairly good and there is a full course available for free and a number of books available for purchase with some being free.\\\\*
+Ruby is a very popular language and it has featured in the Top 10 of the TIOBE index for the past decade. There are a number of different implementations of Ruby and the community is strong with various events, including conferences, being held annually.\\\\*
+JavaScript is one of the most popular languages as it is the most commonly used scripting language for the web. The documentation is excellent and there are a number of sites offering different styles of documentation, such as MDN and W3Schools. JavaScript has been a common feature in the top 10 since the rise of the web around the millennium.\\\\*
+Clojure isn't a hugely popular language for individual developers, however, Clojure Docs lists a huge number of companies that use the language which is increasing as more and more companies look to languages that offer reliable concurrent programming tools.\\\\*
+Haskell is also not very popular with individual developers, but its community is strong and has many events, such as, meetups and conferences listed on its community page on Haskell Docs.
+=======
+JavaScript (shortened to JS) is a high-level language that is best known as being the scripting language for the Web, but is also used in some non-browser environments, such as Node.js and Adobe Acrobat. The language conforms to the ECMAScript specification.
+\subsubsection*{Paradigm}
+\subsubsection*{Language Features and Support for Data Types}
+\subsection*{Clojure}
+\subsubsection*{Introduction}
+\subsubsection*{Paradigm}
+\subsubsection*{Language Features and Support for Data Types}
+\subsection*{Haskell}
+\subsubsection*{Introduction}
+\subsubsection*{Paradigm}
+\subsubsection*{Language Features and Support for Data Types}
+% readability, writability, reliability, popularity etc.
+\subsection*{Overall Comparison}
+>>>>>>> 51726d3bf4dd7c57df33bb42024fb33734b74266

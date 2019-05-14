@@ -1,0 +1,15 @@
+Things to do:
+
+1. Mothership
+2. Alien shoot
+3. Defender hit
+4. High score
+5. GUI
+6. Splash Screen End 
+7. Powerups
+8. Reload ? 
+9. Alien intelligent moving
+10. scoring mechanism
+11. Levels (+1 life) + (faster alien movement?)
+12. Comments
+13. Private and Public (getter and setter)

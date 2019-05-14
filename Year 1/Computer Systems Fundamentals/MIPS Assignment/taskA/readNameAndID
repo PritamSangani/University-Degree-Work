@@ -1,0 +1,62 @@
+#TASK A
+
+.data	#tells assembler that we're in data segment
+
+	#variable declarations
+	enterName: .asciiz "Enter your name: "
+	printName: .asciiz "\nYour name is "
+	userInput: .space 20	#clear 20 bytes in memory for userInput
+	
+	enterID: .asciiz "\nEnter the last four digits of your student ID number: "
+	printID: .asciiz "\nThe last four digits of your student ID number are "
+	
+.text	#tells assembler that we're in text segment
+
+#displayName
+	
+	#print out enterName string
+	la $a0 enterName	#load enterName into $a0 register
+	addi $v0 $zero 4	#load service number 4 (for printing a string) into $v0 register
+	syscall			#call to system
+	
+	#allow user to input their name
+	la $a0 userInput		
+	addi $a1 $zero 20	#reserve 20 bytes of memory in $a1 register
+	addi $v0 $zero 8	#load service number 8 (for reading a string) into $v0 register
+	syscall			
+	
+#displayID
+	
+	#print out enterID string
+	la $a0 enterID		
+	addi $v0 $zero 4	
+	syscall			
+	
+	#read integer that user enters
+	addi $v0 $zero 5	#load service number 5 (for reading an integer) into $v0 register
+	syscall			
+	
+	#move integer stored in $v0 register to $t0 register
+	addu $t0 $zero $v0 #move into $t0 so what the user has typed in doesn't get overwritten
+	
+	
+	#print out printName string
+	la $a0 printName	
+	addi $v0 $zero 4	
+	syscall			
+	
+	#display name that user has entered
+	la $a0 userInput	
+	addi $v0 $zero 4	
+	syscall			
+	
+	#print out printID string
+	la $a0 printID
+	addi $v0 $zero 4
+	syscall
+	
+	#print out integer that was entered by user
+	addi $v0 $zero 1	#load service number 1 (for printing an integer) into $v0 register
+	addu $a0 $zero $t0	#move integer stored in $t0 register to $a0 register
+	syscall
+	

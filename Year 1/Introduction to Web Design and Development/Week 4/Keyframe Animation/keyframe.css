@@ -1,0 +1,23 @@
+body, h1, h2, nav, ul, header, footer{		
+	margin:0;
+	padding:0;
+}
+
+#box{
+	position:relative;
+	left:0px;
+	top:60px;
+	width:200px;
+	height:200px;
+	border:solid 2px black;
+	background-color: red;
+	animation: moveBox 6s;
+}
+
+@keyframes moveBox{
+	0%{left:0px;}
+	30%{left:200px;}
+	50%{left:400px;}
+	75%{left:0px;}
+	100%{left:0px;}
+}

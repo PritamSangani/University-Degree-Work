@@ -1,0 +1,7 @@
+.data
+	str1: .asciiz "Never gonna give you up, never gonna let you down"
+	
+.text
+	la $a0 str1
+	addi $v0 $zero 4
+	syscall

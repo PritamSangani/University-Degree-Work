@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.studentdetails.StudentDetailsActivity"
+    android:paddingStart="23dp">
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:paddingRight="23dp"
+        android:text="@string/nameTextView"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/personalDetailsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/personalDetailsText"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="20dp">
+
+        <TextView
+            android:id="@+id/genderText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/genderText"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/genderTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:text="@string/genderTextView" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/dateOfBirthText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dateOfBirthText"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/dateOfBirthTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:text="@string/dateOfBirthTextView" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/addressText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/addressText"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/addressTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:text="@string/addressTextView" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/postcodeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/postcodeText"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/postcodeTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:text="@string/postcodeTextView" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/universityText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="33dp"
+        android:text="@string/universityText"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="20dp">
+
+        <TextView
+            android:id="@+id/studentNumberText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/studentNumberText"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/studentNumberTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:text="@string/studentNumberTextView" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/courseTitleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/courseTitleText"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/courseTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:text="@string/courseTitleTextView" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/startDateText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/startDateText"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/startDateTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:text="@string/startDateTextView" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/bursaryText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bursaryText"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/bursaryTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:text="@string/bursaryTextView" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/emailText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/emailText"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/emailTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="15dp"
+            android:text="@string/emailTextView" />
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/nameTextView"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/personalDetailsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/nameTextView"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/personalDetailsText"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/genderText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/personalDetailsText"
+        android:layout_below="@+id/personalDetailsText"
+        android:layout_marginTop="26dp"
+        android:text="@string/genderText"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/genderTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/genderText"
+        android:layout_alignBottom="@+id/genderText"
+        android:layout_toEndOf="@+id/postcodeText"
+        android:text="@string/genderTextView" />
+
+    <TextView
+        android:id="@+id/dateOfBirthText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/genderText"
+        android:layout_below="@+id/genderText"
+        android:layout_marginTop="11dp"
+        android:text="@string/dateOfBirthText"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/dateOfBirthTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/dateOfBirthText"
+        android:layout_alignBottom="@+id/dateOfBirthText"
+        android:layout_marginStart="20dp"
+        android:layout_toEndOf="@+id/dateOfBirthText"
+        android:text="@string/dateOfBirthTextView" />
+
+    <TextView
+        android:id="@+id/addressText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/dateOfBirthText"
+        android:layout_below="@+id/dateOfBirthText"
+        android:layout_marginTop="12dp"
+        android:text="@string/addressText"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/addressTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/genderTextView"
+        android:layout_alignTop="@+id/addressText"
+        android:text="@string/addressTextView" />
+
+    <TextView
+        android:id="@+id/postcodeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/addressText"
+        android:layout_below="@+id/addressText"
+        android:layout_marginTop="12dp"
+        android:text="@string/postcodeText"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/postcodeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/postcodeText"
+        android:layout_alignBottom="@+id/postcodeText"
+        android:layout_toEndOf="@+id/dateOfBirthText"
+        android:text="@string/postcodeTextView" />
+
+    <TextView
+        android:id="@+id/universityText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/postcodeText"
+        android:layout_below="@+id/postcodeText"
+        android:layout_marginTop="33dp"
+        android:text="@string/universityText"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/studentNumberText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/universityText"
+        android:layout_below="@+id/universityText"
+        android:layout_marginTop="24dp"
+        android:text="@string/studentNumberText"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/studentNumberTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/studentNumberText"
+        android:layout_alignBottom="@+id/studentNumberText"
+        android:layout_toEndOf="@+id/personalDetailsText"
+        android:text="@string/studentNumberTextView" />
+
+    <TextView
+        android:id="@+id/courseTitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/studentNumberText"
+        android:layout_below="@+id/studentNumberText"
+        android:layout_marginTop="11dp"
+        android:text="@string/courseTitleText"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/courseTitleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/courseTitleText"
+        android:layout_alignBottom="@+id/courseTitleText"
+        android:layout_alignStart="@+id/dateOfBirthTextView"
+        android:text="@string/courseTitleTextView" />
+
+    <TextView
+    android:id="@+id/startDateText"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignStart="@+id/courseTitleText"
+    android:layout_below="@+id/courseTitleText"
+    android:layout_marginTop="11dp"
+    android:text="@string/startDateText"
+    android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/startDateTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/startDateText"
+        android:layout_alignBottom="@+id/startDateText"
+        android:layout_alignStart="@+id/postcodeTextView"
+        android:text="@string/startDateTextView" />
+
+    <TextView
+        android:id="@+id/bursaryText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/startDateText"
+        android:layout_below="@+id/startDateText"
+        android:layout_marginTop="12dp"
+        android:text="@string/bursaryText"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/bursaryTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/bursaryText"
+        android:layout_alignBottom="@+id/bursaryText"
+        android:layout_toEndOf="@+id/startDateText"
+        android:text="@string/bursaryTextView" />
+
+    <TextView
+        android:id="@+id/emailText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/bursaryText"
+        android:layout_below="@+id/bursaryText"
+        android:layout_marginTop="12dp"
+        android:text="@string/emailText"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/emailTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/emailText"
+        android:layout_alignBottom="@+id/emailText"
+        android:layout_toEndOf="@+id/postcodeText"
+        android:text="@string/emailTextView" />
+
+</RelativeLayout>-->

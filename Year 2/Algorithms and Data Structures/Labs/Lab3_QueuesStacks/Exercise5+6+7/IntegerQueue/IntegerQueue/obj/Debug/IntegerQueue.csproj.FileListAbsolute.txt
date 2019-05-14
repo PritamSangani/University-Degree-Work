@@ -1,0 +1,7 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise5+6+7\IntegerQueue\IntegerQueue\bin\Debug\IntegerQueue.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise5+6+7\IntegerQueue\IntegerQueue\bin\Debug\IntegerQueue.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise5+6+7\IntegerQueue\IntegerQueue\bin\Debug\IntegerQueue.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise5+6+7\IntegerQueue\IntegerQueue\obj\Debug\IntegerQueue.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise5+6+7\IntegerQueue\IntegerQueue\obj\Debug\IntegerQueue.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise5+6+7\IntegerQueue\IntegerQueue\obj\Debug\IntegerQueue.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise5+6+7\IntegerQueue\IntegerQueue\obj\Debug\IntegerQueue.pdb

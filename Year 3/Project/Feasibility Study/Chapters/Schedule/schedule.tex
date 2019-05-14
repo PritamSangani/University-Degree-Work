@@ -1,0 +1,41 @@
+% ********************************************
+%
+% SCHEDULE - OUTLINE SCHEDULE (MAYBE TABLE)
+% OF TASKS INCLUDING INTERIM DELIVERABLES.
+%
+% ********************************************
+\section*{Schedule}
+Below is the proposed week-by-week schedule for the project as outlined by the tasks/objectives outlined in the \hyperref[sec:objectives]{Objectives} section. I have displayed the objectives as bars, whilst the deliverables are classed as milestones, which are displayed using diamond symbols.\\\\
+\begin{landscape}
+	\begin{ganttchart}[
+		title/.append style={fill=black!10},
+		title label font=\tiny,
+		x unit=3.15pt,
+		y unit title=20pt,
+		y unit chart=30pt,
+		hgrid,
+		vgrid={*{6}{draw=none},dotted},
+		time slot format=little-endian,
+		milestone label text={\textbf{#1}},
+		milestone left shift=-1,
+		milestone right shift=1
+		]{19-10-2018}{05-04-2019}
+		\setcounter{myWeekNum}{1}
+		\ganttset{calendar week text={\myWeek{}}}
+		\gantttitlecalendar{year, month=name, week=1}\\
+		\ganttbar{Literature Review}{19-10-2018}{24-10-2018} \\
+		\ganttbar{Understand Source Code}{25-10-2018}{28-11-2018} \\
+		\ganttbar{Compare available NER tools}{26-10-2018}{30-10-2018}\\
+		\ganttbar{Design Software Overview \& Plan}{29-10-2018}{04-11-2018}\\
+		\ganttbar{Implementation of Software}{05-11-2018}{18-02-2019}\\
+		\ganttbar{Testing of Software}{09-11-2018}{20-02-2019}\\
+		\ganttmilestone{Prototype Report}{14-12-2018}\\
+		\ganttmilestone{Prototype Software}{14-12-2018}\\
+		\ganttmilestone{Final Software}{22-02-2019}\\
+		\ganttbar{Evaluation of Software}{23-02-2019}{20-03-2019}\\
+		\ganttbar{Report Write-Up}{15-11-2018}{04-04-2019}\\
+		\ganttmilestone{Report Outline}{01-03-2019}\\
+		\ganttmilestone{Showcase Event}{22-03-2019}\\
+		\ganttmilestone{Final Report}{05-04-2019}
+	\end{ganttchart}
+\end{landscape}

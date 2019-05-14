@@ -1,0 +1,7 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab8_BinaryTrees\Exercise3\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab8_BinaryTrees\Exercise3\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab8_BinaryTrees\Exercise3\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab8_BinaryTrees\Exercise3\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab8_BinaryTrees\Exercise3\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab8_BinaryTrees\Exercise3\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab8_BinaryTrees\Exercise3\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

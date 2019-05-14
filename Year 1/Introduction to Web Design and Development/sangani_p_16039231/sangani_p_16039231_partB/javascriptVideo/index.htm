@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Training Videos</title>
+    </head>
+    
+    <body>
+        <script src="scripts/videoScript.js"></script>
+        <section id="videoContainer">
+            <video id="video" width=640 height=550 poster="images/poster.jpg">
+                <source src="video/MP4/blur.mp4">
+                <source src="video/webM/blur.webm">
+            </video> 
+            <div id="videoControls">
+                <button type="button" id="playPause">Play</button>
+                <button type="button" id="mute">Mute</button>
+                <input type="range" id="seekBar" min="1" max="100" step="1" value="0">
+                <input type="range" id="volume" min="1" max="100" step="1" value="50">
+                <input type="text" readonly id="playbackField" size="4"/>
+                <input type="text" readonly id="durationField" size="4"/>
+                <select id="playbackSpeed">
+                    <option value="2">2x</option>
+                    <option value="1.75">1.75x</option>
+                    <option value="1.5">1.5x</option>
+                    <option value="1.25">1.25x</option>
+                    <option selected="selected" value="1">1x</option>
+                    <option value="0.75">0.75x</option>
+                    <option value="0.5">0.5x</option>
+                </select>
+                <button type="button" id="rewind">Rewind</button>
+                <button type="button" id="fastForward">Fast Forward</button>
+            </div> <!--end of videoControls div-->
+        </section>  <!--end of videoContainer section-->
+    </body>
+</html>

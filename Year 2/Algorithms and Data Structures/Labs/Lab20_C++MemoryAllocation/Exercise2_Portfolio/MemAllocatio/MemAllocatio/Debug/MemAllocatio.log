@@ -1,0 +1,6 @@
+﻿  MemAllocatio.cpp
+c:\users\pritam sangani\documents\computer science\year 2\algorithms and data structures\labs\lab20_c++memoryallocation\exercise2_portfolio\memallocatio\memallocatio\memallocatio.cpp(12): warning C4101: 'm': unreferenced local variable
+c:\users\pritam sangani\documents\computer science\year 2\algorithms and data structures\labs\lab20_c++memoryallocation\exercise2_portfolio\memallocatio\memallocatio\memallocatio.cpp(34): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\pritam sangani\documents\computer science\year 2\algorithms and data structures\labs\lab20_c++memoryallocation\exercise2_portfolio\memallocatio\memallocatio\memallocatio.cpp(49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pritam sangani\documents\computer science\year 2\algorithms and data structures\labs\lab20_c++memoryallocation\exercise2_portfolio\memallocatio\memallocatio\memallocatio.cpp(41): warning C4101: 'd': unreferenced local variable
+LINK : fatal error LNK1168: cannot open C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab20_C++MemoryAllocation\Exercise2_Portfolio\MemAllocatio\Debug\MemAllocatio.exe for writing

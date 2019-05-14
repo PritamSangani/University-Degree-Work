@@ -1,0 +1,8 @@
+class Program {
+  int x;
+  int x[5];	// identifier declared twice
+
+  void main() {
+
+  }
+}

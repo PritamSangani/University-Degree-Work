@@ -1,0 +1,16 @@
+.data
+
+
+
+.text
+	addi $s0 $zero 101
+	 
+	addi $v0 $zero 5
+	syscall
+	addu $t0 $s0 $v0
+	
+	addi $v0 $zero 1
+	addu $a0 $zero $t0
+	syscall
+	
+	

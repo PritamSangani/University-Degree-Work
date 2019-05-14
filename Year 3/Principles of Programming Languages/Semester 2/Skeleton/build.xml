@@ -1,0 +1,124 @@
+<!-- Build file for compiler project. Please check with Emma Norling
+     before modifying this file, as the automated testing of your
+     project relies on some of the structure provided by this build file.
+     -->
+<project name="Compiler" default="jar" basedir=".">
+  <!-- Source files -->
+  <property name="src"     location="src"     />
+  <!-- Target Dir for compile -->
+  <property name="classes" location="classes" />
+  <!-- Runtime libraries -->
+  <property name="lib"     location="lib"     />
+  <!-- Temp dir for testing grammar -->
+  <property name="testdir"     location="tmp"     />
+  
+  <!-- We rely on ANTLR 4.6  -->
+
+  <!-- Build up a path structure for a classpath 
+       that includes the libraries and the existing classpath -->
+  <path id="libraries">
+    <pathelement location="${lib}" />
+    <fileset dir="${lib}">
+      <include name="**/*.jar" />
+      <include name="**/*.zip" />
+    </fileset>
+    <pathelement path="${java.class.path}" />
+  </path>
+
+  <target name="init">
+    <mkdir dir="${classes}"/>
+  	<mkdir dir="${testdir}"/>
+  </target>
+
+  <target name="scanner" depends="init">
+  	<antlr4 src="${src}/decaf/DecafLexer.g4" package="decaf">
+    	<args>
+    		<arg value="-o"/>
+    		<arg value="src/decaf"/>
+	        <arg value="-package"/>
+	        <arg value="@{package}"/>
+		</args>
+	</antlr4>
+  </target> 
+
+  <target name="parser" depends="scanner">
+  	<antlr4 src="${src}/decaf/DecafParser.g4" package="decaf">
+  		<args>
+  		<arg value="-o"/>
+    		<arg value="src/decaf"/>
+  		<arg value="-lib"/>
+  		<arg value="${src}/decaf/"/>
+	        <arg value="-package"/>
+	        <arg value="@{package}"/>
+		</args>
+	</antlr4>
+  </target>
+	
+  <target name="compile" depends="parser">
+    <javac includeantruntime="false" srcdir="${src}" destdir="${classes}" debug="on">
+      <classpath refid="libraries"/>
+    </javac>
+  </target>
+
+  <target name="jar" depends="compile">
+    <jar jarfile="Compiler.jar" basedir="${classes}">
+     <manifest>
+       <attribute name="Main-Class" value="decaf.Main" />
+       <!-- ANTLR runtime is needed for parsing! -->
+       <attribute name="Class-Path" value="antlr-4.6-complete.jar" />
+     </manifest>
+    </jar>
+  </target>
+  
+ <!-- to clean, delete non-essential generated files -->
+  <target name="clean">
+     <delete dir="${classes}" />
+  	 <delete dir="${testdir}"/>
+  	 <delete dir="target" />
+	 <delete dir="tmp" />
+  </target>
+	
+	<!-- to clobber, delete ALL generated files -->
+	  <target name="clobber">
+	     <delete dir="${classes}" />
+	  	 <delete dir="${testdir}"/>
+	  	 <delete dir="target" />
+	  	 <delete dir="tmp" />
+	  	 <delete>
+	  	 	<fileset dir="${src}/decaf" includes="DecafLexer*.java"/>
+	  	 	<fileset dir="${src}/decaf" includes="DecafParser*.java"/>
+	  	 	<fileset dir="${src}/decaf" includes="*.tokens"/>
+	  	 	</delete>
+	  	 <delete file="Compiler.jar" />
+	  </target>
+
+	<target name="grammar_test" depends="init">
+		<copy file="${src}/decaf/DecafLexer.g4" todir="${testdir}"/>
+		<copy file="${src}/decaf/DecafParser.g4" todir="${testdir}"/>
+		<antlr4 src="${testdir}/DecafLexer.g4" package="decaf"/>
+		<antlr4 src="${testdir}/DecafParser.g4" package="decaf">
+	 		<args>
+		    	<arg value="-lib"/>
+		  		<arg value="${testdir}/"/>
+			</args>
+		</antlr4>
+	    <javac includeantruntime="false" srcdir="${testdir}" debug="on">
+	    	<classpath refid="libraries"/>
+	    </javac>
+	</target>
+	
+    <macrodef name="antlr4">
+        <attribute name="src"/>
+    	<attribute name="package"/>
+        <element name="args" optional="true"/>
+        <sequential>
+            <java classname="org.antlr.v4.Tool" fork="true" failonerror="true">
+                <args/>
+            	<arg value="@{src}"/>
+                <classpath>
+                  <pathelement location="${lib}/antlr-4.6-complete.jar" />
+                </classpath>
+            </java>
+        </sequential>
+    </macrodef>
+</project>

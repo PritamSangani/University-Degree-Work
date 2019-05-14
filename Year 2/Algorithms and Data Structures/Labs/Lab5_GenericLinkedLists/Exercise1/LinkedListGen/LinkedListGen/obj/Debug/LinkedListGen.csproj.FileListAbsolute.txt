@@ -1,0 +1,7 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab5_GenericLinkedLists\Exercise1\LinkedListGen\LinkedListGen\bin\Debug\LinkedListGen.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab5_GenericLinkedLists\Exercise1\LinkedListGen\LinkedListGen\bin\Debug\LinkedListGen.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab5_GenericLinkedLists\Exercise1\LinkedListGen\LinkedListGen\bin\Debug\LinkedListGen.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab5_GenericLinkedLists\Exercise1\LinkedListGen\LinkedListGen\obj\Debug\LinkedListGen.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab5_GenericLinkedLists\Exercise1\LinkedListGen\LinkedListGen\obj\Debug\LinkedListGen.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab5_GenericLinkedLists\Exercise1\LinkedListGen\LinkedListGen\obj\Debug\LinkedListGen.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab5_GenericLinkedLists\Exercise1\LinkedListGen\LinkedListGen\obj\Debug\LinkedListGen.pdb

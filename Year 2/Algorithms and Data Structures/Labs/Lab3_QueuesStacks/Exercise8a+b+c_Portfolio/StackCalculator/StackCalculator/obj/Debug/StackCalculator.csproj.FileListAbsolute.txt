@@ -1,0 +1,20 @@
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.Form1.resources
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\bin\Debug\StackCalculator.exe
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\bin\Debug\StackCalculator.pdb
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csprojResolveAssemblyReference.cache
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.Form1.resources
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.GenerateResource.Cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise8a+b+c_Portfolio\StackCalculator\StackCalculator\bin\Debug\StackCalculator.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise8a+b+c_Portfolio\StackCalculator\StackCalculator\bin\Debug\StackCalculator.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise8a+b+c_Portfolio\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise8a+b+c_Portfolio\StackCalculator\StackCalculator\obj\Debug\StackCalculator.Form1.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise8a+b+c_Portfolio\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.GenerateResource.Cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise8a+b+c_Portfolio\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise8a+b+c_Portfolio\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise8a+b+c_Portfolio\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb

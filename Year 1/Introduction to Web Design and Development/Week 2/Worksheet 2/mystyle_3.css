@@ -1,0 +1,91 @@
+body, h1, h2, nav, ul, header, footer{		/*CSS Reset*/
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family:arial;
+}
+
+#container{
+	height: auto;
+	width: 85%;
+	border: solid 3px #999;
+	margin: 64px auto;
+	margin-left: 48px auto;
+}	
+
+header{
+	border-bottom:solid 2px #999;
+	margin:20px;
+	height:125px;
+}
+
+#header-title{
+	padding-top:55px;
+	padding-left:140px;	
+}
+
+img{
+	float:left;
+	padding-left:20px;
+	padding-top:20px;
+}
+
+nav{
+	line-height: 32px;
+	float:left;
+	padding-left:20px;
+}
+
+nav a:link{
+	text-decoration:none;
+	color:#419AF2;
+}
+
+nav ul{
+	list-style-type:none;
+}
+
+#content{
+	border-left:solid 2px #999;
+	margin-left:230px;
+	padding-left:20px;
+}
+
+footer{
+	height:auto;
+	width:auto;
+	border:solid 2px #999;
+	margin: 48px;
+	padding-top:27px;
+	padding-bottom:27px;
+	padding-left:16px;
+	padding-right:8px;
+}
+
+footer a:link{
+	text-decoration:none;
+	color:#419AF2;
+}
+
+h1{
+	font-size: 30px;
+	color:#005d90;
+}
+
+h2{
+	font-size:25px;
+	color:#005d90;
+}
+
+h3{
+	font-size:20px;
+}
+
+article ul{
+	padding-left:20px;
+}
+
+
+

@@ -1,0 +1,37 @@
+body, h1, h2, nav, ul, header, footer{
+	margin:0;
+	padding:0;
+}
+body{
+	font-family:arial;
+}
+h1{
+	font-size: 1.6em;
+	color:#005d90;
+}
+h2{
+	font-size:1.3em;
+	color:#0099cc;
+}
+nav{
+	line-height:3em;
+	float:left;
+}
+nav ul{
+	list-style-type:none;
+}
+ul{
+	list-style-type:none;
+}
+#container {
+	height: auto;
+	width: 85%;
+	border: solid 3px #999;
+	margin: 5em auto;
+	padding-top:3em;
+	padding-bottom:3em;
+	padding-left:3em;
+}
+.content{
+	margin-left:220px;
+}

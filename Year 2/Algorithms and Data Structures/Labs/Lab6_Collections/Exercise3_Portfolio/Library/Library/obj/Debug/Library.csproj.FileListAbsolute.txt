@@ -1,0 +1,10 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise3_Portfolio\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise3_Portfolio\Library\Library\bin\Debug\Library.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise3_Portfolio\Library\Library\bin\Debug\Library.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise3_Portfolio\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise3_Portfolio\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise3_Portfolio\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise3_Portfolio\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise3_Portfolio\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise3_Portfolio\Library\Library\obj\Debug\Library.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab6_Collections\Exercise3_Portfolio\Library\Library\obj\Debug\Library.pdb

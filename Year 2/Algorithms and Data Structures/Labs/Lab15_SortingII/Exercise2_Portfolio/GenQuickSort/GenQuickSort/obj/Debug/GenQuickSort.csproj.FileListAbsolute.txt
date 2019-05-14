@@ -1,0 +1,7 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab15_SortingII\Exercise2_Portfolio\GenQuickSort\GenQuickSort\bin\Debug\GenQuickSort.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab15_SortingII\Exercise2_Portfolio\GenQuickSort\GenQuickSort\bin\Debug\GenQuickSort.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab15_SortingII\Exercise2_Portfolio\GenQuickSort\GenQuickSort\bin\Debug\GenQuickSort.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab15_SortingII\Exercise2_Portfolio\GenQuickSort\GenQuickSort\obj\Debug\GenQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab15_SortingII\Exercise2_Portfolio\GenQuickSort\GenQuickSort\obj\Debug\GenQuickSort.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab15_SortingII\Exercise2_Portfolio\GenQuickSort\GenQuickSort\obj\Debug\GenQuickSort.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab15_SortingII\Exercise2_Portfolio\GenQuickSort\GenQuickSort\obj\Debug\GenQuickSort.csprojResolveAssemblyReference.cache

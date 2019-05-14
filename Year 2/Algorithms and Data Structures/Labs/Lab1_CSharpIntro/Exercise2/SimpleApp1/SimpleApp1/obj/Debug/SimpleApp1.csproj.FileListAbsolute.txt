@@ -1,0 +1,10 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\FirstFormsApp\SimpleApp1\SimpleApp1\bin\Debug\SimpleApp1.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\FirstFormsApp\SimpleApp1\SimpleApp1\bin\Debug\SimpleApp1.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\FirstFormsApp\SimpleApp1\SimpleApp1\bin\Debug\SimpleApp1.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\FirstFormsApp\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\FirstFormsApp\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.Form1.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\FirstFormsApp\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.Properties.Resources.resources
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\FirstFormsApp\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.csproj.GenerateResource.Cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\FirstFormsApp\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\FirstFormsApp\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1\FirstFormsApp\SimpleApp1\SimpleApp1\obj\Debug\SimpleApp1.pdb

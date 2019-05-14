@@ -1,0 +1,20 @@
+body, h1, h2, nav, ul, header, footer{		
+	margin:0;
+	padding:0;
+}
+
+p{
+	font-size:4em;
+	text-align:center;
+	color:white;
+	transition:color 2s;
+}
+body:hover #p1{
+	color:red;
+}
+body:hover #p2{
+	color:red;
+}
+body:hover #p3{
+	color:red;
+}

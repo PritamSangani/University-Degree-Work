@@ -1,0 +1,2 @@
+- move design methodology + langauges, tools and services to literature review
+- talk more about AIML, pattern matching+substitution and other chatbot design frameworks.

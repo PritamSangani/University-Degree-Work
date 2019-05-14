@@ -1,0 +1,8 @@
+Information Systems Presentation
+
+A use case diagram is used 
+
+--Five actors namely...
+--Use Cases in red represent the must have priority
+--Use Cases in green represent the should have priority
+--Use Cases in blue represent the could have priority

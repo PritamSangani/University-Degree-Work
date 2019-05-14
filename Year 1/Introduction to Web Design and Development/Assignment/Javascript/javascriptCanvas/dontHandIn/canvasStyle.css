@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+canvas
+{
+    background-color: rgba(128,255,0,0.50);
+    border:1px dashed;
+}

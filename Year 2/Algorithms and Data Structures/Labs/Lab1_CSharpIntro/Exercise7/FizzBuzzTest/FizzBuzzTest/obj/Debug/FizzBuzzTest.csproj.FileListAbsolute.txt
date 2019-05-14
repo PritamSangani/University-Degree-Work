@@ -1,0 +1,6 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\FizzBuzzTest\FizzBuzzTest\FizzBuzzTest\bin\Debug\FizzBuzzTest.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\FizzBuzzTest\FizzBuzzTest\FizzBuzzTest\bin\Debug\FizzBuzzTest.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\FizzBuzzTest\FizzBuzzTest\FizzBuzzTest\bin\Debug\FizzBuzzTest.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\FizzBuzzTest\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\FizzBuzzTest\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab1_CSharpIntro\FizzBuzzTest\FizzBuzzTest\FizzBuzzTest\obj\Debug\FizzBuzzTest.pdb

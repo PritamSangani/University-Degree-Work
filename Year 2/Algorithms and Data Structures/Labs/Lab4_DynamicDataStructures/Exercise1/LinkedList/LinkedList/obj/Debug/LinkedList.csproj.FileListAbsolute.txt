@@ -1,0 +1,7 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab4_DynamicDataStructures\Exercise1\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab4_DynamicDataStructures\Exercise1\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab4_DynamicDataStructures\Exercise1\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab4_DynamicDataStructures\Exercise1\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab4_DynamicDataStructures\Exercise1\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab4_DynamicDataStructures\Exercise1\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab4_DynamicDataStructures\Exercise1\LinkedList\LinkedList\obj\Debug\LinkedList.pdb

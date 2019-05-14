@@ -1,0 +1,6 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise3_Portfolio\Library3\Library3\bin\Debug\Library3.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise3_Portfolio\Library3\Library3\bin\Debug\Library3.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise3_Portfolio\Library3\Library3\bin\Debug\Library3.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise3_Portfolio\Library3\Library3\obj\Debug\Library3.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise3_Portfolio\Library3\Library3\obj\Debug\Library3.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab2_ClassesInheritance\Exercise3_Portfolio\Library3\Library3\obj\Debug\Library3.pdb

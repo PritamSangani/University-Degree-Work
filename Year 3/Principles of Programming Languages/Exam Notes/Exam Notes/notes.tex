@@ -1,0 +1,39 @@
+% Notes to take into exam
+
+\include{Preamble/preamble}
+\title{\vspace{-3.0cm}\textbf{Programming Principles Exam Notes}}
+\date{}
+\begin{document}
+	\maketitle
+	\section*{Section A}
+	\subsection*{Lexical Analysis}
+	Write regular expressions and include fragments if including them in the answer.\\\\
+	\textbf{Things to remember:}
+	\begin{itemize}
+		\item ? = zero or one
+		\item * = zero or many
+		\item + = one or many
+		\item Capitalize name of token and remember to add semicolon to end of rule.
+	\end{itemize}
+	\textbf{Examples:}\\
+	ID: [a-zA-Z\_] [a-zA-Z0-9\_]*;\\
+	NUMBER: [0-9]+ | `0x' [0-9a-fA-F]+;\\\\
+	\subsection*{Parser}
+	Write corresponding ANTLR rules given part of the Decaf grammar.\\
+	\textbf{Things to remember:}
+	\begin{itemize}
+		\item Use rules in answer if given them.
+		\item include any rules you have created or assumed exist in lexer. E.g. `COLON: `:'; '
+		\item Carefully read grammar to see if it uses any of the meta-notation which will be given in a table.
+	\end{itemize}
+	\textbf{Example:}\\
+	<method\_decl>  -> \{<type> | void\} <id> ([\{<type> <id>\}$^{+}$, ]) <block>\\
+	<method\_type>  -> \{<type> | void\}\\
+	<parameter>  -> <type> <id>\\\\
+	\noindent
+	\textbf{Answer:}\\ 
+	LBRACKET : `(';\\
+	RBRACKET : `)';\\
+	COMMA : `,'; \\
+	method\_decl: method\_type  id LBRACKET (parameter (COMMA parameter)*)? RBRACKET block;\\
+\end{document}

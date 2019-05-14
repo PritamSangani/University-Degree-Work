@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="advprogramming.temperatureconverter.MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="30dp"
+        android:text="Convert"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/TempTextBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="37dp"
+        android:ems="10"
+        android:hint="Temperature"
+        android:inputType="textPersonName|number|numberSigned|numberDecimal" />
+
+    <RadioGroup
+        android:id="@+id/ConvertRadioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/TempTextBox"
+        android:layout_below="@+id/TempTextBox"
+        android:layout_marginTop="34dp">
+
+        <RadioButton
+            android:id="@+id/FahrenheitButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="To Fahrenheit" />
+
+        <RadioButton
+            android:id="@+id/CentigradeRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="To Centigrade" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/ConvertButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/ConvertRadioGroup"
+        android:layout_below="@+id/ConvertRadioGroup"
+        android:layout_marginTop="38dp"
+        android:onClick="convert_OnClick"
+        android:text="Convert" />
+</RelativeLayout>

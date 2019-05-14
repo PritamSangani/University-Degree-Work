@@ -1,0 +1,14 @@
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2\IntegerStack\IntegerStack\bin\Debug\IntegerStack.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2\IntegerStack\IntegerStack\bin\Debug\IntegerStack.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2\IntegerStack\IntegerStack\bin\Debug\IntegerStack.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2\IntegerStack\IntegerStack\obj\Debug\IntegerStack.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2\IntegerStack\IntegerStack\obj\Debug\IntegerStack.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2\IntegerStack\IntegerStack\obj\Debug\IntegerStack.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2\IntegerStack\IntegerStack\obj\Debug\IntegerStack.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2+3\IntegerStack\IntegerStack\bin\Debug\IntegerStack.exe.config
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2+3\IntegerStack\IntegerStack\bin\Debug\IntegerStack.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2+3\IntegerStack\IntegerStack\bin\Debug\IntegerStack.pdb
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2+3\IntegerStack\IntegerStack\obj\Debug\IntegerStack.csprojResolveAssemblyReference.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2+3\IntegerStack\IntegerStack\obj\Debug\IntegerStack.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2+3\IntegerStack\IntegerStack\obj\Debug\IntegerStack.exe
+C:\Users\Pritam Sangani\Documents\Computer Science\Year 2\Algorithms and Data Structures\Labs\Lab3_QueuesStacks\Exercise2+3\IntegerStack\IntegerStack\obj\Debug\IntegerStack.pdb

@@ -1,0 +1,64 @@
+body, h1, h2, nav, ul, header, footer{		/*CSS Reset*/
+	margin:0;
+	padding:0;
+}
+body{
+	font-family:arial;
+}
+
+header{
+	padding-left:2em;
+	border-bottom:solid 2px #999;
+}
+header h1{
+	padding-left:5em;
+	/*padding-top: 3em;*/
+}
+
+h1{
+	font-size: 1.6em;
+	color:#005d90;
+}
+h2{
+	font-size:1.3em;
+	color:#0099cc;
+}
+nav{
+	line-height:3em;
+	float:left;
+}
+nav a:link{
+	text-decoration:none;
+}
+nav ul{
+	list-style-type:none;
+}
+ul{
+	list-style-type:none;
+}
+#container {
+	height: auto;
+	width: 85%;
+	border: solid 3px #999;
+	margin: 4em auto;
+	margin-left: 3em auto;
+	
+}
+.content{
+	margin-left:220px;
+	border-left:solid 2px #999;
+	padding-left:1em;
+}
+footer{
+	height:auto;
+	width:auto;
+	border:solid 2px #999;
+	margin: 3em;
+	padding-top:1.7em;
+	padding-bottom:1.7em;
+	padding-left:1em;
+	padding-right:0.5em;
+}
+footer a:link{
+	text-decoration:none;
+}

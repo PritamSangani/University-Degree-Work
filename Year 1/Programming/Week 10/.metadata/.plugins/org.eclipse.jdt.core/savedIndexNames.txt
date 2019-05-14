@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+/Volumes/PRITAM_S/Computer Science/Programming/Week 10/.metadata/.plugins/org.eclipse.jdt.core
+527524311.index
+2619059574.index
+1267877793.index
